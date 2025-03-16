@@ -1,5 +1,5 @@
-Flask==3.0.2
-flask-cors==4.0.0
-Pillow==10.2.0
-easyocr==1.7.1
-pdf2image==1.17.0
+Flask
+flask-cors
+Pillow
+easyocr
+pdf2image
